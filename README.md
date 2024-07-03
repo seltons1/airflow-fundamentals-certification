@@ -6,6 +6,8 @@ Summary of studies to take the airflow fundamentals certification test.
 
 - [Introdution to Airflow](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/IntrodutionToAirflow.md)
 
+- [Core Components](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/CoreComponents.md)
+
 
 
 
