@@ -20,7 +20,7 @@ Data orchestration is the coordination and automation of data flow across variou
 
             - Lack of standartization of data formats, protocols and processing techniques.
 _________________________
-    # EARLY COMPUTING (Such as CRON or WTS)
+    #EARLY COMPUTING (Such as CRON or WTS)
         
         - Defined by
 
@@ -36,3 +36,34 @@ _________________________
 
             - Schedulers like CRON and WTS lacked features for more complex workloads and general maintainbility.
 
+_________________________
+    #DATA & OPEN-SOURCE RENAISSANCE (Such as Luigi, Ozie and Azkaban)
+        
+        - Defined by
+
+            - Increase in data complexity and size.
+            
+            - Increase in complexity of scheduling and ETL workloads.
+
+            - Rise of open-source workflow management projects. 
+
+        - Limitations
+
+            - Some tools were limited to working only within the hadoop ecosystem.
+
+            - Some tools used XML and config files to define workloads.
+
+            - Limited dynamism, scalability and extensibility.
+
+_________________________
+    #MODERNS DATA ORCHESTRATION
+        
+        - Defined by
+
+            - Rise of pipelines-as-code in python.
+
+            - The ability to integrate with hundreds of external systems.
+
+            - Time and event-based scheduling.
+
+            - Feature rich software with built-in observability and centralized UI.
