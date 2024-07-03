@@ -4,6 +4,8 @@ Summary of studies to take the airflow fundamentals certification test.
 
 - [Data Orchestration](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/DataOrchestration.md)
 
+- [Introdution to Airflow](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/IntrodutionToAirflow.md)
+
 
 
 
