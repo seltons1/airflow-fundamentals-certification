@@ -6,7 +6,7 @@ Data orchestration is the coordination and automation of data flow across variou
 
 # Journey to Modern Data Orchestration
 
-    PRE-UNIT ERA
+    # PRE-UNIT ERA
     
         - Defined by 
         
@@ -19,8 +19,8 @@ Data orchestration is the coordination and automation of data flow across variou
             - The entire process was manual and error-prome it depended on humans to catch erros and fix them.
 
             - Lack of standartization of data formats, protocols and processing techniques.
-    
-    EARLY COMPUTING (Such as CRON or WTS)
+_________________________
+    # EARLY COMPUTING (Such as CRON or WTS)
         
         - Defined by
 
@@ -31,4 +31,8 @@ Data orchestration is the coordination and automation of data flow across variou
             - Dedicated ETL tooling.
 
         - Limitations
+
+            - Proprietary software was expensive, close-source and resource intensive.
+
+            - Schedulers like CRON and WTS lacked features for more complex workloads and general maintainbility.
 
