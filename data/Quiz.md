@@ -610,3 +610,44 @@ task_c << task_b << task_a?
 
     (True) Yes
     No
+
+# 6. Airflow Connections 101
+
+
+Question 1: 
+
+Can you create two connections with identical ids?
+
+    Yes
+    (True) No
+
+Question 2: 
+
+In Airflow, what is a connection?
+
+    A connection is a way to define the order in which tasks in a DAG should be executed.
+
+    A connection is a type of sensor that waits for a specific condition to be met before proceeding with a task.
+
+    (True) A connection is a way to store and reuse credentials or configuration settings for external systems that are used in Airflow tasks.
+
+Question 3: 
+
+What is the purpose of defining a connection in Airflow?
+
+    (True) The purpose of defining a connection in Airflow is to avoid hard-coding sensitive information like passwords or API keys into Airflow DAGs, and to allow for easy management and reuse of connection information across multiple DAGs.
+
+    The purpose of defining a connection in Airflow is to store output data from tasks for later analysis.
+
+    The purpose of defining a connection in Airflow is to specify the order in which tasks should be executed within a DAG.
+
+Question 4: 
+
+What are the different types of connections available in Airflow?
+
+    Airflow only supports one type of connection, which is the SSH connection type.
+
+    (True) Airflow comes with several built-in connection types, including HTTP, MySQL, Postgres, SSH, and more. It also allows you to define custom connection types if needed.
+
+    Airflow supports a very limited set of connection types, including MongoDB, Cassandra, and Redis.
+
