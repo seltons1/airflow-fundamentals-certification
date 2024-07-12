@@ -559,3 +559,54 @@ What does the "Recent Tasks" column on the DAG View show?
     (True) Task's states of the current or latest DAG Run for a given DAG
 
 # 5. Airflow DAGs 101
+
+Question 1:
+
+What's the role of the start date?
+
+    (True) Define when the DAG starts being scheduled
+    Define the trigger interval
+    Avoid running past non-triggered DAG Runs
+
+Question 2: 
+
+What happens if you don't define a start date?
+
+    Nothing, it's optional
+    (True) That raises an error
+
+Question 3: 
+
+What's the role of tags?
+
+    (True) The allow to better organizing DAGs
+    (True) They allow filtering DAGs
+    They prevent from running DAGs that do not belong to the current user
+
+Question 4: 
+
+How can you avoid assigning the dag object to every task you create?
+
+    (True) with DAG(...)
+    dag = ...
+    (True) @dag(..)
+    You can't. You must assign the dag object to every task
+
+Question 5: 
+
+What happens when two DAGs share the same DAG id?
+
+    The two DAGs appear on the UI
+    You get an error
+    (True) One DAG randomly shows up on the UI
+
+Question 6:
+
+Does task_a >> task_b >> task_c
+
+is equivalent to
+
+task_c << task_b << task_a?
+
+    (True) Yes
+    No
