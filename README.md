@@ -12,3 +12,6 @@ Summary of studies to take the airflow fundamentals certification test.
 
 - [DAG's 101](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/data/Dags101.md)
 
+- [DAG's Scheduling](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/data/DagScheduling.md)
+
+
