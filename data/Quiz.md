@@ -977,3 +977,6 @@ What does the airflow db check command do?
     (True) Checks the connection to the Airflow database
     Removes all data from the Airflow database
     Initializes the Airflow database
+
+
+[Back to Main](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/README.md)

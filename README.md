@@ -16,5 +16,13 @@ Summary of studies to take the airflow fundamentals certification test.
 
 - [Connections](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/data/Connections.md)
 
+- [Xcom](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/data/Xcom.md)
+
+- [Variables](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/data/Variables.md)
+
+- [Debug Dags](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/data/DebugDags.md)
+
+- [Sensors](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/data/Sensors.md)
+
 - [Quiz](https://github.com/seltons1/airflow-fundamentals-certification/blob/main/data/Quiz.md)
 
