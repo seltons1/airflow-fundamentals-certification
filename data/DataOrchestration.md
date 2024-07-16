@@ -2,7 +2,7 @@
 
 Able to build data pipeline that coordinate diferent tools to answer a specific business need.
 
-Data orchestration is the coordination and automation of data flow across various tools ans systems to deliver quality data products and analytics.
+Data orchestration is the coordination and automation of data flow across various tools and systems to deliver quality data products and analytics.
 
 # Journey to Modern Data Orchestration
 
