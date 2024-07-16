@@ -16,7 +16,7 @@ Apache Airflow is an open-source tool for programmatically authoring, scheduling
 
     - Airflow is designed for batch processing, not for streaming processing.
 
-    - Airflow is scalable bu default, you can executeas many task as you want.
+    - Airflow is scalable by default, you can executeas many task as you want.
 
     - Airflow is designed for orchestrating and manages data workflows, not process data, is possible process data but is not mainly.
 
