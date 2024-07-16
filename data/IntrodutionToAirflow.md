@@ -32,7 +32,7 @@ Apache Airflow is an open-source tool for programmatically authoring, scheduling
     
     TASK
 
-        A single unit of work in a DAG, represented by a single node inthe graph.
+        A single unit of work in a DAG, represented by a single node in the graph.
 
     OPERATOR
 
