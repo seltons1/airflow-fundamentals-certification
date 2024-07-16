@@ -14,7 +14,7 @@
 
     EXECUTOR (Part of Scheduler)
 
-        Defines how and which system to execute yout tasks.
+        Defines how and which system to execute your tasks.
 
     QUEUE
 
